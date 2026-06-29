@@ -57,11 +57,6 @@ El repositorio incluye un script generador de datos sintéticos (`generarSimulac
 
 🔗 [Ver dashboard interactivo](https://datastudio.google.com/reporting/ece4b52b-1acb-4745-bd06-2610a793047e)
 
-
-
-![Vista general del dashboard]("C:\Users\fjbor\OneDrive\Imágenes\Screenshots\Dashboard.png")
-
-
 ### 📋 Datos en Google Sheets
 
 🔗 [Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1659ECggUKrgvHCeckiDPNku_eAeSIiMVevNq_HsLfbI/edit?usp=sharing)
