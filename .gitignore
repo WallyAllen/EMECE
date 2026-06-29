@@ -1,0 +1,14 @@
+# Archivos de contexto interno (datos sensibles)
+CONTEXTO_PROYECTO_EMECE.md
+
+# Carpeta de agentes/configuración local
+.agents/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
