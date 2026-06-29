@@ -49,3 +49,23 @@ Esta refactorización soluciona el cuello de botella intrínseco de las platafor
 ## 5. Estructura de Entorno de Pruebas (Mock Data)
 
 El repositorio incluye un script generador de datos sintéticos (`generarSimulacionHistoricaCompleta.js`) diseñado para inyectar volumen estadístico que respeta el determinismo del embudo asimétrico. Emplea inyección nativa de objetos `Date` en formato `yyyy-MM-dd HH:mm:ss` para garantizar el parseo estricto del motor de Looker Studio, evitando fallos de tipificación `Type Mismatch`.
+
+## Reportes y Análisis
+
+
+### 📊 Dashboard en Looker Studio
+
+🔗 [Ver dashboard interactivo](https://datastudio.google.com/reporting/ece4b52b-1acb-4745-bd06-2610a793047e)
+
+
+
+![Vista general del dashboard](./docs/screenshots/dashboard_principal.png)
+
+
+### 📋 Datos en Google Sheets
+
+🔗 [Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1659ECggUKrgvHCeckiDPNku_eAeSIiMVevNq_HsLfbI/edit?usp=sharing)
+
+## Demo
+
+🎬 [Ver video demostrativo](https://youtube.com/shorts/e6lXI9s3mGQ)
