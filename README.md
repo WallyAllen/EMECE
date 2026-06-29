@@ -59,7 +59,7 @@ El repositorio incluye un script generador de datos sintéticos (`generarSimulac
 
 
 
-![Vista general del dashboard](./docs/screenshots/dashboard_principal.png)
+![Vista general del dashboard]("C:\Users\fjbor\OneDrive\Imágenes\Screenshots\Dashboard.png")
 
 
 ### 📋 Datos en Google Sheets
